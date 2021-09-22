@@ -10,7 +10,7 @@ cv-bridge==1.13.0
 diagnostic-analysis==1.9.7
 diagnostic-common-diagnostics==1.9.7
 diagnostic-updater==1.9.7
-Django==3.0.4
+Django==3.1.13
 django-cors-headers==3.2.1
 djangorestframework==3.11.0
 dynamic-reconfigure==1.6.3
