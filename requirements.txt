@@ -12,7 +12,7 @@ diagnostic-common-diagnostics==1.9.7
 diagnostic-updater==1.9.7
 Django
 django-cors-headers==3.2.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 dynamic-reconfigure==1.6.3
 gazebo-plugins==2.8.7
 gazebo-ros==2.8.7
