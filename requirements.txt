@@ -97,7 +97,7 @@ sensor-msgs==1.12.8
 smach==2.0.1
 smach-ros==2.0.1
 smclib==1.8.5
-sqlparse==0.3.1
+sqlparse==0.4.4
 srdfdom==0.5.2
 tf==1.12.1
 tf-conversions==1.12.1
